@@ -1,0 +1,21 @@
+footer.page-footer{margin-top: 0!important;}
+
+.tooltip {
+  position: absolute;
+  display: inline-block;
+  min-width: 5em;
+  padding: .5em;
+  background: #F4C63D;
+  color: #453D3F;
+  font-weight: 700;
+  text-align: center;
+  pointer-events: none;
+  z-index: 1;
+}
+.navbar-fixed nav {overflow: initial!important;}
+
+.parallax img {background-position: bottom!important;}
+
+.ct-labels .ct-horizontal{-ms-transform: rotate(-50deg); /* IE 9 */
+    -webkit-transform: rotate(-50deg); /* Chrome, Safari, Opera */
+    transform: rotate(-50deg);}
